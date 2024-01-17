@@ -1,4 +1,4 @@
-# Laptop Price Predictor
+# _Laptop Price Predictor_
 ## Author: Muhammad Taimoor khan
 
 ## Table of Contents
